@@ -5374,7 +5374,7 @@ blockquote {
 
 .home-block {
     height: 100vh;
-    background-image: url("Assets/images/website\ lp_Mesa\ de\ trabajo\ 1.jpg"), linear-gradient(27deg, #fea22a, #471087);
+    background-image: url("Assets/images/website\ lp_Mesa\ de\ trabajo\ 1.jpg");
     background-position: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -8649,26 +8649,32 @@ blockquote {
 
 @media screen and (min-width: 1440px) {
     h1 {
+        color: #fff;
         margin-bottom: 10px;
     }
 
     h2 {
+        color: #fff;
         margin-bottom: 10px;
     }
 
     h3 {
+        color: #fff;
         margin-bottom: 10px;
     }
 
     h4 {
+        color: #fff;
         margin-bottom: 10px;
     }
 
     h5 {
+        color: #fff;
         margin-bottom: 10px;
     }
 
     h6 {
+        
         margin-bottom: 10px;
     }
 
@@ -10944,8 +10950,8 @@ blockquote {
     .idea-image {
         left: 40px;
         bottom: 102px;
-        width: 171px;
-        height: 104px;
+        width: 179px;
+        height: 134px;
     }
 
     .link-image {
@@ -11577,8 +11583,8 @@ blockquote {
     .idea-image {
         left: 21px;
         bottom: 65px;
-        width: 128px;
-        height: 84px;
+        width: 179px;
+        height: 134px;
     }
 
     .link-image {
@@ -11594,8 +11600,8 @@ blockquote {
     }
 
     .wrapper-with-image {
-        width: 280px;
-        height: 280px;
+        width: 248px;
+        height: 144px;
     }
 
     .form-block-wrapper {
